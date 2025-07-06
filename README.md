@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Asit!;" />
 </h1>
 
-### A Computer Engineering student passionate about Animation, Graphic Design and Software Engineering.
+### A Computer Engineering student passionate about 3D Animation, Graphic Design and Software Engineering.
 
 - Currently learning **[Unreal Engine](https://www.udemy.com/course/ue5-ultimate-bp-course/?couponCode=25BBPMXINACTIVE)**
 
@@ -32,5 +32,17 @@
   <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,mongodb,postgres" />
   <img src="https://skillicons.dev/icons?i=html,css,js,redux,d3,git,python,c" />
 </p>
+
+<hr>
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=tubsterlol&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Tubsterlol's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tubsterlol&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Tubsterlol's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=tubsterlol&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Tubsterlol's Most Used Languages" />
+</div>
 
 <hr>
