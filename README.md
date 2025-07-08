@@ -1,4 +1,4 @@
-### A Computer Engineering student passionate about 3D Animation, Graphic Design and Software Engineering.
+### A Computer Science and Design Engineering student passionate about 3D Animation, Graphic Design and Software Engineering.
 
 - Currently learning **[Unreal Engine](https://www.udemy.com/course/ue5-ultimate-bp-course/?couponCode=25BBPMXINACTIVE)**
 
