@@ -18,8 +18,11 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,mongodb,mysql" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,redux,d3,git,python,c,blender,unreal,linux" />
+<img src="https://skillicons.dev/icons?i=java,ts,python,c,js" />
+<br />
+<img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,mysql,html,css,git,linux" />
+<br />
+<img src="https://skillicons.dev/icons?i=blender,unreal,vscode">
 </p>
 
 <hr>
