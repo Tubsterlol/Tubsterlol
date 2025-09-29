@@ -24,5 +24,3 @@
 <br />
 <img src="https://skillicons.dev/icons?i=blender,unreal">
 </p>
-
-<hr>
