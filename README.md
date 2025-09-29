@@ -18,22 +18,11 @@
 <br>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,ts,python,c,js" />
+<img src="https://skillicons.dev/icons?i=python,java" />
 <br />
-<img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,mysql,html,css,git,linux" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,html,css,git,linux" />
 <br />
-<img src="https://skillicons.dev/icons?i=blender,unreal,vscode">
+<img src="https://skillicons.dev/icons?i=blender,unreal">
 </p>
-
-<hr>
-
-## ⚡️ Stats
-
-<br>
-
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=tubsterlol&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Tubsterlol's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tubsterlol&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Tubsterlol's" />
-</div>
 
 <hr>
