@@ -1,4 +1,4 @@
-### Aspiring Python Software Engineer 
+### Aspiring Software Engineer 
 
 <br>
 
@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java" />
+<img src="https://skillicons.dev/icons?i=python,java,rust" />
 <br />
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,html,css,git,linux" />
 <br />
