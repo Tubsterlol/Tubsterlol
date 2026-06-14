@@ -1,13 +1,14 @@
-### Aspiring Software Engineer 
+### Aspiring Software Engineer
 
 <br>
 
 <div align="center">
-  <a href="asitpatel.work@gmail.com">
+  <a href="mailto:asitpatel.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+
   <a href="https://www.linkedin.com/in/asit-patel-aa7871282/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
@@ -16,9 +17,9 @@
 <br>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,rust" />
-<br />
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,html,css,git,linux" />
-<br />
-<img src="https://skillicons.dev/icons?i=blender,unreal">
+  <img src="https://skillicons.dev/icons?i=python,java,rust" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,html,css,git,linux" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=blender,unreal" />
 </p>
