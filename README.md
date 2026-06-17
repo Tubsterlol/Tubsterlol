@@ -1,4 +1,8 @@
-### Aspiring Software Engineer
+<div align="center">
+  <strong>
+  Aspiring Software Engineer
+    </strong>
+</div>
 
 <br>
 
@@ -12,7 +16,7 @@
   </a>
 </div>
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <br>
 
